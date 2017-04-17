@@ -1,0 +1,338 @@
+[
+   {
+      "nome":"ANTONIO BRITO",
+      "partido":"PSD/BA",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Misericórdia"
+   },
+   {
+      "nome":"ARLINDO CHINAGLIA",
+      "partido":"PT/SP",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Grisalho"
+   },
+   {
+      "nome":"ARTHUR OLIVEIRA MAIA",
+      "partido":"PPS/BA",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Tuca"
+   },
+   {
+      "nome":"AÉCIO NEVES",
+      "partido":"PSDB/MG",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Mineirinho"
+   },
+   {
+      "nome":"BETINHO GOMES",
+      "partido":"PSDB/PE",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Bolsas"
+   },
+   {
+      "nome":"BETO MANSUR",
+      "partido":"PRB/SP",
+      "cargo":"Deputado Federal",
+      "valor":"2014 R$ 300 mil",
+      "apelido":"BMW"
+   },
+   {
+      "nome":"CARLOS ZARATTINI",
+      "partido":"PT/SP",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 50 mil",
+      "apelido":"Guarulhos"
+   },
+   {
+      "nome":"CELSO RUSSOMANNO",
+      "partido":"PRB/SP",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 50 mil",
+      "apelido":"Itacaré"
+   },
+   {
+      "nome":"CIRO NOGUEIRA",
+      "partido":"PP/PI",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Cerrado"
+   },
+   {
+      "nome":"DANIEL ALMEIDA",
+      "partido":"PCdoB/BA",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Comuna /Passivo"
+   },
+   {
+      "nome":"DANIEL VILELA",
+      "partido":"PMDB/GO",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Padre"
+   },
+   {
+      "nome":"EDISON LOBÃO",
+      "partido":"PMDB/MA",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Esquálido"
+   },
+   {
+      "nome":"EUNÍCIO OLIVEIRA",
+      "partido":"PMDB/CE",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Índio"
+   },
+   {
+      "nome":"FELIPE MAIA",
+      "partido":"DEM/RN",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Pininho"
+   },
+   {
+      "nome":"FERNANDO BEZERRA COELHO",
+      "partido":"PSB/PE",
+      "cargo":"Senador",
+      "valor":"R$ 200 mil",
+      "apelido":"Novilho"
+   },
+   {
+      "nome":"FERNANDO COLLOR",
+      "partido":"PTC/AL",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Roxinho"
+   },
+   {
+      "nome":"FÁBIO FARIA",
+      "partido":"PSD/RN",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 100 mil",
+      "apelido":"Bonito"
+   },
+   {
+      "nome":"GARIBALDI ALVES FILHO",
+      "partido":"PMDB/RN",
+      "cargo":"Senador",
+      "valor":"R$ 200 mil",
+      "apelido":"Lento"
+   },
+   {
+      "nome":"GLEISI HOFFMANN",
+      "partido":"PT/PR",
+      "cargo":"Senador",
+      "valor":"R$ 150 mil em 2008, R$ 450 mil em 2010 e R$ 3,5 milhões em 2014",
+      "apelido":"Amante"
+   },
+   {
+      "nome":"HERÁCLITO FORTES",
+      "partido":"PSB/PI",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Boca Mole"
+   },
+   {
+      "nome":"HUMBERTO COSTA",
+      "partido":"PT/PE",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Drácula"
+   },
+   {
+      "nome":"IVO CASSOL",
+      "partido":"PP/RO",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Maçaranduba"
+   },
+   {
+      "nome":"JARBAS VASCONCELOS",
+      "partido":"PMDB/PE",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 700 mil",
+      "apelido":"Viagra"
+   },
+   {
+      "nome":"JORGE VIANA",
+      "partido":"PT/AC",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Menino da floresta"
+   },
+   {
+      "nome":"JOSÉ AGRIPINO",
+      "partido":"DEM/RN",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Pino"
+   },
+   {
+      "nome":"JOÃO PAULO PAPA",
+      "partido":"PSDB/SP",
+      "cargo":"Deputado Federal",
+      "valor":"2014 R$ 300 mil",
+      "apelido":"Benzedor"
+   },
+   {
+      "nome":"JULIO LOPES",
+      "partido":"PP/RJ",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Pavão /Bonitinho / Velhos"
+   },
+   {
+      "nome":"KÁTIA ABREU",
+      "partido":"PMDB/TO",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Machado"
+   },
+   {
+      "nome":"LINDBERGH FARIAS",
+      "partido":"PT/RJ",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Feio / Lindinho"
+   },
+   {
+      "nome":"LUCIO VIEIRA LIMA",
+      "partido":"PMDB/BA",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Bitelo"
+   },
+   {
+      "nome":"LÍDICE DA MATA",
+      "partido":"PSB/BA",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Feia"
+   },
+   {
+      "nome":"MARCO MAIA",
+      "partido":"PT/RS",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Gremista"
+   },
+   {
+      "nome":"MARIA DO ROSÁRIO",
+      "partido":"PT/RS",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Solução"
+   },
+   {
+      "nome":"NELSON PELLEGRINO",
+      "partido":"PT/BA",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 1,5 milhão",
+      "apelido":"Pelé"
+   },
+   {
+      "nome":"PAES LANDIM",
+      "partido":"PTB/PI",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Decrépito"
+   },
+   {
+      "nome":"PAULO PEREIRA DA SILVA",
+      "partido":"SD/SP",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 200 mil",
+      "apelido":"Boa Vista"
+   },
+   {
+      "nome":"PAULO ROCHA",
+      "partido":"PT/PA",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Cavanhaque"
+   },
+   {
+      "nome":"RENAN CALHEIROS",
+      "partido":"PMDB/AL",
+      "cargo":"Senador",
+      "valor":"R$ 500 mil",
+      "apelido":"Justiça"
+   },
+   {
+      "nome":"RICARDO FERRAÇO",
+      "partido":"PSDB/ES",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Duro"
+   },
+   {
+      "nome":"ROBERTO FREIRE",
+      "partido":"PPS/SP",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 200 mil",
+      "apelido":"Curitiba"
+   },
+   {
+      "nome":"RODRIGO MAIA",
+      "partido":"DEM/RJ",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Botafogo"
+   },
+   {
+      "nome":"ROMERO JUCÁ",
+      "partido":"PMDB/RR",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Caju"
+   },
+   {
+      "nome":"VALDIR RAUPP",
+      "partido":"PMDB/RO",
+      "cargo":"Senador",
+      "valor":"",
+      "apelido":"Alemão"
+   },
+   {
+      "nome":"VICENTE CANDIDO",
+      "partido":"PT/SP",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 50 mil",
+      "apelido":"Palmas"
+   },
+   {
+      "nome":"VICENTINHO",
+      "partido":"PT/SP",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 30 mil",
+      "apelido":"João Pessoa"
+   },
+   {
+      "nome":"YEDA CRUSIUS",
+      "partido":"PSDB/RS",
+      "cargo":"Deputado Federal",
+      "valor":"R$ 600 mil",
+      "apelido":"_"
+   },
+   {
+      "nome":"ZECA DIRCEU",
+      "partido":"PT/PR",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Guerrilheiro"
+   },
+   {
+      "nome":"ZECA DO PT",
+      "partido":"PT/MS",
+      "cargo":"Deputado Federal",
+      "valor":"",
+      "apelido":"Pescador"
+   }
+]
