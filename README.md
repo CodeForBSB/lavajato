@@ -26,5 +26,17 @@ Seria interessante se mais app e sites utilizassem as mesmas informações.
 
 Se surgir demanda, podemos disponiblizar um serviço para consulta dessas informações.
 
-## Vamos monitorar!!!
+## Campos
+- **nome**: nome do político
+- **partido**: partido do político e uf
+- **cargo**: Deputado Federal ou Senador
+- **valor**: valor que o delator informou que o político recebeu
+- **apelido**: codinome recebido na lista da propina da Odebrecht
+
+###Sugestões de campos
+- **nr_indiciamento**: número de indiciamentos na lavajato
+- **status**: status do político na lavajato (investigado, denunciado, réu, condenado, arquivado)
+- **defesa**: o que a defesa do político diz
+
+#### Vamos monitorar!!!
 
