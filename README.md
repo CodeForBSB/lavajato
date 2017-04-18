@@ -32,9 +32,9 @@ Se surgir demanda, podemos disponiblizar um serviço para consulta dessas inform
 - **cargo**: Deputado Federal ou Senador
 - **valor**: valor que o delator informou que o político recebeu
 - **apelido**: codinome recebido na lista da propina da Odebrecht
+- **cpf**: cpf do político
 
 ### Sugestões de campos
-- **cpf**: cpf do político
 - **nr_indiciamento**: número de indiciamentos na lavajato
 - **status**: status do político na lavajato (investigado, denunciado, réu, condenado, arquivado)
 - **defesa**: o que a defesa do político diz
