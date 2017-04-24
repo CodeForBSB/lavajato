@@ -1,49 +1,49 @@
-nome,partido,cargo,valor,apelido,cpf
-ANTONIO BRITO,PSD/BA,Deputado Federal,,Misericórdia,00929077504
-ARLINDO CHINAGLIA,PT/SP,Deputado Federal,,Grisalho,06821146187
-ARTHUR OLIVEIRA MAIA,PPS/BA,Deputado Federal,,Tuca,32604637553
-AÉCIO NEVES,PSDB/MG,Senador,,Mineirinho,66728983791
-BETINHO GOMES,PSDB/PE,Deputado Federal,,Bolsas,02008488446
-BETO MANSUR,PRB/SP,Deputado Federal,2014 R$ 300 mil,BMW,73255319820
-CARLOS ZARATTINI,PT/SP,Deputado Federal,R$ 50 mil,Guarulhos,00398099863
-CELSO RUSSOMANNO,PRB/SP,Deputado Federal,R$ 50 mil,Itacaré,01252958803
-CIRO NOGUEIRA,PP/PI,Senador,,Cerrado,34190392391
-DANIEL ALMEIDA,PCdoB/BA,Deputado Federal,,Comuna /Passivo,07894090549
-DANIEL VILELA,PMDB/GO,Deputado Federal,,Padre,98166638134
-EDISON LOBÃO,PMDB/MA,Senador,,Esquálido,00014125153
-EUNÍCIO OLIVEIRA,PMDB/CE,Senador,,Índio,03679004320
-FELIPE MAIA,DEM/RN,Deputado Federal,Segundo a delação de Sérgio Machado, o deputado é suspeito de receber R$ 250 mil em propina, em forma de doações eleitorais para a eleição de 2014, desviados da Transpetro, subsidiária da Petrobras.Os recursos foram recolhidos com a Queiroz Galvão,Pininho,91644372487
-FERNANDO BEZERRA COELHO,PSB/PE,Senador,R$ 200 mil,Novilho,01077887809
-FERNANDO COLLOR,PTC/AL,Senador,O ex-presidente e atual senador por Alagoas é suspeito de receber R$ 26 milhões em subornos e propinas relacionadas à negócios com a BR Distribuidora. Segundo a delação de Nestor Cerveró, Collor recebia propina de contratos da BR desde 2009. A denúncia do MP aponta ainda que Collor forjou empréstimos fictícios para justificar a compra de bens de luxo,Roxinho,02906287172
-FÁBIO FARIA,PSD/RN,Deputado Federal,R$ 100 mil,Bonito,02128728428
-GARIBALDI ALVES FILHO,PMDB/RN,Senador,R$ 200 mil,Lento,00442810482 
-GLEISI HOFFMANN,PT/PR,Senador,"R$ 150 mil em 2008, R$ 450 mil em 2010 e R$ 3,5 milhões em 2014",Amante,67677061915
-HERÁCLITO FORTES,PSB/PI,Deputado Federal,Segundo a delação de Sérgio Machado, o deputado é suspeito de receber R$ 500 mil em propina, em forma de doações eleitorais, desviados da Transpetro, subsidiária da Petrobras,Boca Mole,06342850410
-HUMBERTO COSTA,PT/PE,Senador,O senador é suspeito de receber R$ 1 milhão do esquema para sua campanha ao Senado em 2010,Drácula,15288455449
-IVO CASSOL,PP/RO,Senador,,Maçaranduba,30476640997
-JARBAS VASCONCELOS,PMDB/PE,Deputado Federal,R$ 700 mil,Viagra,00105457434
-JORGE VIANA,PT/AC,Senador,,Menino da floresta,96980486853
-JOSÉ AGRIPINO,DEM/RN,Senador,,Pino,00441392415
-JOÃO PAULO PAPA,PSDB/SP,Deputado Federal,2014 R$ 300 mil,Benzedor,01792010850
-JULIO LOPES,PP/RJ,Deputado Federal,,Pavão /Bonitinho / Velhos,59245220753
-KÁTIA ABREU,PMDB/TO,Senador,,Machado,61330345134
-LINDBERGH FARIAS,PT/RJ,Senador,,Feio / Lindinho,69049351468
-LUCIO VIEIRA LIMA,PMDB/BA,Deputado Federal,,Bitelo,28925491168
-LÍDICE DA MATA,PSB/BA,Senador,,Feia,14672049515
-MARCO MAIA,PT/RS,Deputado Federal,R$ 1.8 milhão,Gremista,47500867034
-MARIA DO ROSÁRIO,PT/RS,Deputado Federal,,Solução,48989371015
-NELSON PELLEGRINO,PT/BA,Deputado Federal,"R$ 1,5 milhão",Pelé,24289612504
-PAES LANDIM,PTB/PI,Deputado Federal,,Decrépito,00309745187
-PAULO PEREIRA DA SILVA,SD/SP,Deputado Federal,R$ 200 mil,Boa Vista,21006768904
-PAULO ROCHA,PT/PA,Senador,,Cavanhaque,02366010249
-RENAN CALHEIROS,PMDB/AL,Senador,É alvo de oito inquéritos que investigam influência na Petrobras e recebimento de propina. Segundo o ex-presidente da Transpetro Sérgio Machado, Renan recebeu R$ 32 milhões em propina e doações oficiais como pagamento por sustentá-lo no cargo,Justiça,11078685487
-RICARDO FERRAÇO,PSDB/ES,Senador,,Duro, 77488040791
-ROBERTO FREIRE,PPS/SP,Deputado Federal,R$ 200 mil,Curitiba,00235369420
-RODRIGO MAIA,DEM/RJ,Deputado Federal,,Botafogo,00590048783
-ROMERO JUCÁ,PMDB/RR,Senador,R$ 5 milhões,Caju,09582819472
-VALDIR RAUPP,PMDB/RO,Senador,,Alemão,34347364920
-VICENTE CANDIDO,PT/SP,Deputado Federal,R$ 50 mil,Palmas,11680079840
-VICENTINHO,PT/SP,Deputado Federal,R$ 30 mil,João Pessoa,12995398404
-YEDA CRUSIUS,PSDB/RS,Deputado Federal,R$ 600 mil,_,15419819015
-ZECA DIRCEU,PT/PR,Deputado Federal,,Guerrilheiro,03098871946
-ZECA DO PT,PT/MS,Deputado Federal,,Pescador,04064992172
+nome;partido;cargo;valor;apelido;cpf
+ANTONIO BRITO;PSD/BA;Deputado Federal;;Misericórdia;00929077504
+ARLINDO CHINAGLIA;PT/SP;Deputado Federal;;Grisalho;06821146187
+ARTHUR OLIVEIRA MAIA;PPS/BA;Deputado Federal;;Tuca;32604637553
+AÉCIO NEVES;PSDB/MG;Senador;;Mineirinho;66728983791
+BETINHO GOMES;PSDB/PE;Deputado Federal;;Bolsas;02008488446
+BETO MANSUR;PRB/SP;Deputado Federal;2014 R$ 300 mil;BMW;73255319820
+CARLOS ZARATTINI;PT/SP;Deputado Federal;R$ 50 mil;Guarulhos;00398099863
+CELSO RUSSOMANNO;PRB/SP;Deputado Federal;R$ 50 mil;Itacaré;01252958803
+CIRO NOGUEIRA;PP/PI;Senador;;Cerrado;34190392391
+DANIEL ALMEIDA;PCdoB/BA;Deputado Federal;;Comuna /Passivo;07894090549
+DANIEL VILELA;PMDB/GO;Deputado Federal;;Padre;98166638134
+EDISON LOBÃO;PMDB/MA;Senador;;Esquálido;00014125153
+EUNÍCIO OLIVEIRA;PMDB/CE;Senador;;Índio;03679004320
+FELIPE MAIA;DEM/RN;Deputado Federal;Segundo a delação de Sérgio Machado, o deputado é suspeito de receber R$ 250 mil em propina, em forma de doações eleitorais para a eleição de 2014, desviados da Transpetro, subsidiária da Petrobras.Os recursos foram recolhidos com a Queiroz Galvão;Pininho;91644372487
+FERNANDO BEZERRA COELHO;PSB/PE;Senador;R$ 200 mil;Novilho;01077887809
+FERNANDO COLLOR;PTC/AL;Senador;O ex-presidente e atual senador por Alagoas é suspeito de receber R$ 26 milhões em subornos e propinas relacionadas à negócios com a BR Distribuidora. Segundo a delação de Nestor Cerveró, Collor recebia propina de contratos da BR desde 2009. A denúncia do MP aponta ainda que Collor forjou empréstimos fictícios para justificar a compra de bens de luxo;Roxinho;02906287172
+FÁBIO FARIA;PSD/RN;Deputado Federal;R$ 100 mil;Bonito;02128728428
+GARIBALDI ALVES FILHO;PMDB/RN;Senador;R$ 200 mil;Lento;00442810482 
+GLEISI HOFFMANN;PT/PR;Senador;"R$ 150 mil em 2008, R$ 450 mil em 2010 e R$ 3,5 milhões em 2014";Amante;67677061915
+HERÁCLITO FORTES;PSB/PI;Deputado Federal;Segundo a delação de Sérgio Machado, o deputado é suspeito de receber R$ 500 mil em propina, em forma de doações eleitorais, desviados da Transpetro, subsidiária da Petrobras;Boca Mole;06342850410
+HUMBERTO COSTA;PT/PE;Senador;O senador é suspeito de receber R$ 1 milhão do esquema para sua campanha ao Senado em 2010;Drácula;15288455449
+IVO CASSOL;PP/RO;Senador;;Maçaranduba;30476640997
+JARBAS VASCONCELOS;PMDB/PE;Deputado Federal;R$ 700 mil;Viagra;00105457434
+JORGE VIANA;PT/AC;Senador;;Menino da floresta;96980486853
+JOSÉ AGRIPINO;DEM/RN;Senador;;Pino;00441392415
+JOÃO PAULO PAPA;PSDB/SP;Deputado Federal;2014 R$ 300 mil;Benzedor;01792010850
+JULIO LOPES;PP/RJ;Deputado Federal;;Pavão /Bonitinho / Velhos;59245220753
+KÁTIA ABREU;PMDB/TO;Senador;;Machado;61330345134
+LINDBERGH FARIAS;PT/RJ;Senador;;Feio / Lindinho;69049351468
+LUCIO VIEIRA LIMA;PMDB/BA;Deputado Federal;;Bitelo;28925491168
+LÍDICE DA MATA;PSB/BA;Senador;;Feia;14672049515
+MARCO MAIA;PT/RS;Deputado Federal;R$ 1.8 milhão;Gremista;47500867034
+MARIA DO ROSÁRIO;PT/RS;Deputado Federal;;Solução;48989371015
+NELSON PELLEGRINO;PT/BA;Deputado Federal;"R$ 1;5 milhão";Pelé;24289612504
+PAES LANDIM;PTB/PI;Deputado Federal;;Decrépito;00309745187
+PAULO PEREIRA DA SILVA;SD/SP;Deputado Federal;R$ 200 mil;Boa Vista;21006768904
+PAULO ROCHA;PT/PA;Senador;;Cavanhaque;02366010249
+RENAN CALHEIROS;PMDB/AL;Senador;É alvo de oito inquéritos que investigam influência na Petrobras e recebimento de propina. Segundo o ex-presidente da Transpetro Sérgio Machado, Renan recebeu R$ 32 milhões em propina e doações oficiais como pagamento por sustentá-lo no cargo;Justiça;11078685487
+RICARDO FERRAÇO;PSDB/ES;Senador;;Duro; 77488040791
+ROBERTO FREIRE;PPS/SP;Deputado Federal;R$ 200 mil;Curitiba;00235369420
+RODRIGO MAIA;DEM/RJ;Deputado Federal;;Botafogo;00590048783
+ROMERO JUCÁ;PMDB/RR;Senador;R$ 5 milhões;Caju;09582819472
+VALDIR RAUPP;PMDB/RO;Senador;;Alemão;34347364920
+VICENTE CANDIDO;PT/SP;Deputado Federal;R$ 50 mil;Palmas;11680079840
+VICENTINHO;PT/SP;Deputado Federal;R$ 30 mil;João Pessoa;12995398404
+YEDA CRUSIUS;PSDB/RS;Deputado Federal;R$ 600 mil;_;15419819015
+ZECA DIRCEU;PT/PR;Deputado Federal;;Guerrilheiro;03098871946
+ZECA DO PT;PT/MS;Deputado Federal;;Pescador;04064992172
