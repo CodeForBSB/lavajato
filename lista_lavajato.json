@@ -33,7 +33,7 @@
       "nome": "AÉCIO NEVES",
       "partido": "PSDB/MG",
       "cargo": "Senador",
-      "valor": "",
+      "valor": "Acusado de receber vantagens ilícitas de empresa contratada pela estatal Furnas Centrais Elétricas. Segundo a denúncia da PGR, recursos irregularmente desviados de Furnas recebiam verniz legal por intermédio de pessoas jurídicas ligadas à irmã do senador tucano. Além disso, ainda de acordo com a acusação, o dinheiro era destinado a contas no exterior, por meio de doleiros, o que configura evasão de divisas.",
       "apelido": "Mineirinho",
       "cpf": "667289837-91",
       "idCadastro": "391",
@@ -117,7 +117,7 @@
       "nome": "CIRO NOGUEIRA",
       "partido": "PP/PI",
       "cargo": "Senador",
-      "valor": "",
+      "valor": "O ex-diretor da Petrobras Paulo Roberto Costa citou Ciro como responsável pela indicação da distribuição dos repasses a políticos do PP após a morte do ex-deputado José Janene",
       "apelido": "Cerrado",
       "cpf": "341903923-91",
       "idCadastro": "739",
@@ -147,7 +147,7 @@
       "nome": "EDISON LOBÃO",
       "partido": "PMDB/MA",
       "cargo": "Senador",
-      "valor": "",
+      "valor": "O ex-diretor da Petrobras Paulo Roberto Costa afirmou que mandou entregar R$ 2 milhões à ex-governadora do Maranhão Roseana Sarney para campanha de 2010, a pedido de Lobão. De acordo com o ex-diretor, o dinheiro foi entregue pelo doleiro Youssef",
       "apelido": "Esquálido",
       "cpf": "000141251-53",
       "idCadastro": "16",
@@ -177,7 +177,7 @@
       "nome": "FERNANDO BEZERRA COELHO",
       "partido": "PSB/PE",
       "cargo": "Senador",
-      "valor": "R$ 200 mil",
+      "valor": "Em delação premiada, o ex-diretor da Petrobras Paulo Roberto Costa disse que Fernando pediu ao doleiro Youssef R$ 20 milhões para a campanha ao governo de Eduardo Campos (PSB), em 2010",
       "apelido": "Novilho",
       "cpf": "010778878-09",
       "idCadastro": "5540",
@@ -217,7 +217,7 @@
       "nome": "GLEISI HOFFMANN",
       "partido": "PT/PR",
       "cargo": "Senador",
-      "valor": "R$ 150 mil em 2008, R$ 450 mil em 2010 e R$ 3,5 milhões em 2014",
+      "valor": "O doleiro Alberto Youssef e o ex-diretor da Petrobras Paulo Roberto Costa citaram a senadora em seus depoimentos. O doleiro disse que repassou R$ 1 milhão à campanha de Gleisi ao Senado em 2010, por meio de um empresário",
       "apelido": "Amante",
       "cpf": "676770619-15",
       "idCadastro": "5006",
@@ -243,7 +243,7 @@
       "nome": "HUMBERTO COSTA",
       "partido": "PT/PE",
       "cargo": "Senador",
-      "valor": "O senador é suspeito de receber R$ 1 milhão do esquema para sua campanha ao Senado em 2010",
+      "valor": "De acordo com o ex-diretor da Petrobras Paulo Roberto Costa, Humberto Costa recebeu R$ 1 milhão para a campanha ao Senado em 2010",
       "apelido": "Drácula",
       "cpf": "152884554-49",
       "idCadastro": "5008",
@@ -263,7 +263,7 @@
       "nome": "IVO CASSOL",
       "partido": "PP/RO",
       "cargo": "Senador",
-      "valor": "",
+      "valor": "Primeiro senador condenado à prisão pelo Supremo, em agosto de 2013, Cassol recorre em liberdade da pena de quatro anos e oito meses, em regime semiaberto, e da multa de R$ 201 mil a que foi sentenciado. O ex-governador de Rondônia foi considerado culpado na Ação Penal 565, por cometer crime contra a Lei de Licitações.",
       "apelido": "Maçaranduba",
       "cpf": "304766409-97",
       "idCadastro": "5004",
@@ -305,7 +305,7 @@
       "nome": "JOSÉ AGRIPINO",
       "partido": "DEM/RN",
       "cargo": "Senador",
-      "valor": "",
+      "valor": "o senador é acusado por um delator de ter recebido R$ 1 milhão fruto de um esquema de fraudes no Detran-RN. Agripino é mencionado em delação premiada feita por um empresário potiguar na Operação Sinal Fechado. George Olímpio disse ter pagado propina para aprovar, na Assembleia Legislativa do Rio Grande do Norte, lei sob medida para os seus negócios no Detran estadual. O senador foi um dos beneficiados, segundo ele",
       "apelido": "Pino",
       "cpf": "004413924-15",
       "idCadastro": "40",
@@ -548,14 +548,48 @@
       "foto": "http://www.camara.leg.br/internet/deputado/bandep/74693.jpg"
    },
    {
+      "nome": "ROMÁRIO",
+      "partido": "PSB/RJ",
+      "cargo": "Senador",
+      "valor": "Com base em mensagens no celular do empreiteiro Marcelo Odebrecht, a Procuradoria-Geral da República enviou uma petição ao Supremo para abrir inquérito contra o senador, suspeito de receber caixa dois de campanha na eleição de 2014. De acordo com as investigações, o ex-jogador é suspeito de receber R$ 100 mil da empreiteira Odebrecht, após a eleição vitoriosa para o Senado, em 2014",
+      "apelido": "",
+      "cpf": "906719537-53",
+      "idCadastro": "5322",
+      "foto": "http://www.senado.gov.br/senadores/img/fotos-oficiais/senador5322.jpg",
+      "processos": [
+         {
+            "numero": "Inq 4303",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5035977"
+         }
+      ]  
+   },
+   {
       "nome": "ROMERO JUCÁ",
       "partido": "PMDB/RR",
       "cargo": "Senador",
-      "valor": "R$ 5 milhões",
+      "valor": "Um dos procedimentos diz respeito à origem e ao destino de R$ 100 mil jogados para fora de um carro por um de seus auxiliares momentos antes de ser abordado pela polícia. O ato ocorreu durante a campanha eleitoral de 2010. O assessor disse que o dinheiro seria usado na campanha de Jucá.",
       "apelido": "Caju",
       "cpf": "095828194-72",
       "idCadastro": "73",
       "foto": "http://www.senado.gov.br/senadores/img/fotos-oficiais/senador73.jpg"
+      "processos": [
+          {
+            "numero": "Inq 3989",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727643"
+         },
+         {
+            "numero": "Inq 4303",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5035977"
+         },
+         {
+            "numero": "Inq 4326",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5067232"
+         }
+         {
+            "numero": "Inq 4347",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5096860"
+         }
+      ]  
    },
    {
       "nome": "VALDIR RAUPP",
