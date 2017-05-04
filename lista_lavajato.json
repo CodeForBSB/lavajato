@@ -571,7 +571,7 @@
       "apelido": "Caju",
       "cpf": "095828194-72",
       "idCadastro": "73",
-      "foto": "http://www.senado.gov.br/senadores/img/fotos-oficiais/senador73.jpg"
+      "foto": "http://www.senado.gov.br/senadores/img/fotos-oficiais/senador73.jpg",
       "processos": [
           {
             "numero": "Inq 3989",
@@ -584,7 +584,7 @@
          {
             "numero": "Inq 4326",
             "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5067232"
-         }
+         },
          {
             "numero": "Inq 4347",
             "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5096860"
