@@ -197,11 +197,17 @@
       "nome": "FÁBIO FARIA",
       "partido": "PSD/RN",
       "cargo": "Deputado Federal",
-      "acusacao": "R$ 100 mil",
+      "acusacao": "Suspeito de receber recursos da Odebrecht Ambiental via caixa 2 para abastecer sua campanha eleitoral em 2010. A Odebrecht Ambiental destinou recursos da ordem de R$ 100 mil à campanha de Faria a deputado federal",
       "apelido": "Bonito",
       "cpf": "021287284-28",
       "idCadastro": "141428",
-      "foto": "http://www.camara.leg.br/internet/deputado/bandep/141428.jpg"
+      "foto": "http://www.camara.leg.br/internet/deputado/bandep/141428.jpg",
+       "processos": [
+         {
+            "numero": "Inq/4452 DIREITO PROCESSUAL PENAL | Investigação Penal",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149844"
+         }
+      ]      
    },
    {
       "nome": "GARIBALDI ALVES FILHO",
