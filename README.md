@@ -15,16 +15,14 @@ Se quiser adicionar alguma informação, edite esse arquivo.
 
 Depois, faça o commit. Se não conseguir, informe no Issues que dps atualizamos. 
 
-Essa informação está sendo utilizada no app Monitora, Brasil! e na página do app (www.monitorabrasil.org)
+## Onde está sendo utilizado
+- App Monitora, Brasil!
+  - www.monitorabrasil.org
+  - Android: https://play.google.com/store/apps/details?id=com.gamfig.monitorabrasil
+  - IOS: https://itunes.apple.com/us/app/monitora-brasil!/id721186628?l=pt&ls=1&mt=8
 
-Android: https://play.google.com/store/apps/details?id=com.gamfig.monitorabrasil
 
-IOS: https://itunes.apple.com/us/app/monitora-brasil!/id721186628?l=pt&ls=1&mt=8
-
-
-Seria interessante se mais apps e sites utilizassem as mesmas informações. 
-
-Se surgir demanda, podemos disponiblizar um serviço para consulta dessas informações.
+Seria interessante que mais apps e sites utilizassem as mesmas informações. 
 
 ## Campos
 - **nome**: nome do político
@@ -46,8 +44,12 @@ Se surgir demanda, podemos disponiblizar um serviço para consulta dessas inform
 - **defesa**: o que a defesa do político diz
 
 ## Fontes de Pesquisa
-http://congressoemfoco.uol.com.br/noticias/veja-os-senadores-que-sao-investigados-no-stf/
-http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-fabio-faria-e-suspeito-de-receber-doacao-eleitoral-via-caixa-2.ghtml
+### Site do STF 
+http://www.stf.jus.br/portal/processo/pesquisarProcesso.asp
+
+### Matérias
+- http://congressoemfoco.uol.com.br/noticias/veja-os-senadores-que-sao-investigados-no-stf/
+- http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-fabio-faria-e-suspeito-de-receber-doacao-eleitoral-via-caixa-2.ghtml
 
 #### Vamos monitorar!!!
 
