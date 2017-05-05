@@ -30,7 +30,7 @@ Se surgir demanda, podemos disponiblizar um serviço para consulta dessas inform
 - **nome**: nome do político
 - **partido**: partido do político e uf
 - **cargo**: Deputado Federal ou Senador
-- **valor**: valor que o delator informou que o político recebeu
+- **acusacao**: resumo do que o político está sendo acusado
 - **apelido**: codinome recebido na lista da propina da Odebrecht
 - **cpf**: cpf do político
 - **idCadastro**: id do político na base de dados da Câmara ou Senado
