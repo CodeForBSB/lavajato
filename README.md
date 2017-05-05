@@ -50,6 +50,7 @@ http://www.stf.jus.br/portal/processo/pesquisarProcesso.asp
 ### Matérias
 - http://congressoemfoco.uol.com.br/noticias/veja-os-senadores-que-sao-investigados-no-stf/
 - http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-fabio-faria-e-suspeito-de-receber-doacao-eleitoral-via-caixa-2.ghtml
+- http://g1.globo.com/politica/operacao-lava-jato/noticia/delator-diz-que-apoiava-zeca-dirceu-para-nao-ter-jose-dirceu-como-inimigo.ghtml
 
 #### Vamos monitorar!!!
 
