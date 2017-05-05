@@ -647,11 +647,17 @@
       "nome": "ZECA DIRCEU",
       "partido": "PT/PR",
       "cargo": "Deputado Federal",
-      "acusacao": "",
+      "acusacao": "O ex-presidente da Odebrecht Ambiental Fernando Reis, em depoimento de delação premiada na Operação Lava Jato, afirmou que a empresa fez uma doação por meio de caixa 2 para o deputado federal Zeca Dirceu (PT-PR). O valor foi pago, segundo ele, para não ter José Dirceu, pai do parlamentar e ex-ministro da Casa Civil, como “inimigo”. Segundo o delator, Dirceu pediu a contribuição para o filho sem citar um valor exato. Ele recebeu 250 mil em 2010 e 250 mil em 2014 via caixa 2",
       "apelido": "Guerrilheiro",
       "cpf": "030988719-46",
       "idCadastro": "160592",
-      "foto": "http://www.camara.leg.br/internet/deputado/bandep/160592.jpg"
+      "foto": "http://www.camara.leg.br/internet/deputado/bandep/160592.jpg",
+      "processos": [
+          {
+            "numero": "Inq 4445 DIREITO PROCESSUAL PENAL | Investigação Penal",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149830"
+         }
+      ]
    },
    {
       "nome": "ZECA DO PT",
