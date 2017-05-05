@@ -217,7 +217,13 @@
       "apelido": "Lento",
       "cpf": "004428104-82",
       "idCadastro": "87",
-      "foto": "http://www.senado.gov.br/senadores/img/fotos-oficiais/senador87.jpg"
+      "foto": "http://www.senado.gov.br/senadores/img/fotos-oficiais/senador87.jpg",
+       "processos": [
+         {
+            "numero": "Inq/4440 DIREITO PROCESSUAL PENAL | Investigação Penal",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149820"
+         }
+      ]      
    },
    {
       "nome": "GLEISI HOFFMANN",
