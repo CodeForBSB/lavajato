@@ -47,6 +47,7 @@ Se surgir demanda, podemos disponiblizar um serviço para consulta dessas inform
 
 ## Fontes de Pesquisa
 http://congressoemfoco.uol.com.br/noticias/veja-os-senadores-que-sao-investigados-no-stf/
+http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-fabio-faria-e-suspeito-de-receber-doacao-eleitoral-via-caixa-2.ghtml
 
 #### Vamos monitorar!!!
 
