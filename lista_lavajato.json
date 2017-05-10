@@ -3,7 +3,7 @@
       "nome": "ANTONIO BRITO",
       "partido": "PSD/BA",
       "cargo": "Deputado Federal",
-      "acusacao": "",
+      "acusacao": " Segundo ex-diretor da Odebrecht, recebeu R$ 100 mil da Odebrecht e R$ 130 mil da Braskem nas campanhas eleitorais de 2010 e 2014, respectivamente...",
       "apelido": "Misericórdia",
       "cpf": "514888685-49",
       "idCadastro": "160553",
@@ -13,21 +13,36 @@
       "nome": "ARLINDO CHINAGLIA",
       "partido": "PT/SP",
       "cargo": "Deputado Federal",
-      "acusacao": "",
+      "acusacao": "Suspeito de cobrar propina da Odebrecht em troca da liberação de uma obra, segundo inquérito autorizado pelo ministro Edson Fachin, relator da Lava Jato no Supremo Tribunal Federal (STF). Os valores chegaram a R$ 10 milhões",
       "apelido": "Grisalho",
       "cpf": "068211461-87",
       "idCadastro": "73433",
-      "foto": "http://www.camara.leg.br/internet/deputado/bandep/73433.jpg"
+      "foto": "http://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+      "processos": [
+         {
+            "numero": "Inq/4479  DIREITO PENAL | Crimes Previstos na Legislação Extravagante | Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5166547"
+         },{
+            "numero": "Inq/4461  DIREITO PROCESSUAL PENAL | Investigação Penal",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149866"
+         }
+      ]
    },
    {
       "nome": "ARTHUR OLIVEIRA MAIA",
       "partido": "PPS/BA",
       "cargo": "Deputado Federal",
-      "acusacao": "",
+      "acusacao": "Suspeito de ter recebido doação, no valor de R$ 200 mil, não contabilizada para a campanha eleitoral de 2010. Ele será investigado por falsidade ideológica eleitoral, de acordo com o inquérito.",
       "apelido": "Tuca",
       "cpf": "326046375-53",
       "idCadastro": "160600",
-      "foto": "http://www.camara.leg.br/internet/deputado/bandep/160600.jpg"
+      "foto": "http://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+      "processos": [
+         {
+            "numero": "Inq/4405  DIREITO PROCESSUAL PENAL | Investigação Penal",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149755"
+         }
+      ]
    },
    {
       "nome": "AÉCIO NEVES",
@@ -72,22 +87,12 @@
             "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149730"
          }
       ]
-   },
-   {
-      "nome": "BETINHO GOMES",
-      "partido": "PSDB/PE",
-      "cargo": "Deputado Federal",
-      "acusacao": "",
-      "apelido": "Bolsas",
-      "cpf": "020084884-46",
-      "idCadastro": "178915",
-      "foto": "http://www.camara.leg.br/internet/deputado/bandep/178915.jpg"
-   },
+   },   
    {
       "nome": "BETO MANSUR",
       "partido": "PRB/SP",
       "cargo": "Deputado Federal",
-      "acusacao": "2014 R$ 300 mil",
+      "acusacao": "Suspeito de receber pagamento de valores da Odebrecht, a pretexto de campanha eleitoral, para favorecer interesses da construtora em Santos (SP) – cidade onde o político foi prefeito de 1997 a 2004. ",
       "apelido": "BMW",
       "cpf": "732553198-20",
       "idCadastro": "73437",
@@ -97,21 +102,36 @@
       "nome": "CARLOS ZARATTINI",
       "partido": "PT/SP",
       "cargo": "Deputado Federal",
-      "acusacao": "R$ 50 mil",
+      "acusacao": "Suspeito de receber pagamentos indevidos em 2010 e 2012, segundo dois inquéritos. Ele teria recebido R$ 50 mil em pagamentos indevidos da Odebrecht para campanhas eleitorais em 2010 e também seria beneficiário, juntamente com Cândidato Vacarezza, de pagamentos de R$ 5 milhões, que fariam parte de um crédito de R$ 27 milhões em benefício do PT, realizado em 2012",
       "apelido": "Guarulhos",
       "cpf": "003980998-63",
       "idCadastro": "141398",
-      "foto": "http://www.camara.leg.br/internet/deputado/bandep/141398.jpg"
+      "foto": "http://www.camara.leg.br/internet/deputado/bandep/141398.jpg",
+      "processos": [
+         {
+            "numero": "Inq/4425  DIREITO PROCESSUAL PENAL | Investigação Penal",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149791"
+         },{
+            "numero": "Inq/4430  DIREITO PROCESSUAL PENAL | Investigação Penal",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149800"
+         }
+      ]
    },
    {
       "nome": "CELSO RUSSOMANNO",
       "partido": "PRB/SP",
       "cargo": "Deputado Federal",
-      "acusacao": "R$ 50 mil",
+      "acusacao": "Suspeito de ter recebido da Odebrecht a quantia não contabilizada de R$ 50 não contabilizados na campanha eleitoral de 2010",
       "apelido": "Itacaré",
       "cpf": "012529588-03",
       "idCadastro": "73441",
-      "foto": "http://www.camara.leg.br/internet/deputado/bandep/73441.jpg"
+      "foto": "http://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
+      "processos": [
+         {
+            "numero": "Inq/4422  DIREITO PROCESSUAL PENAL | Investigação Penal",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149786"
+         }
+      ]
    },
    {
       "nome": "CIRO NOGUEIRA",
