@@ -47,10 +47,17 @@ Seria interessante que mais apps e sites utilizassem as mesmas informações.
 ### Site do STF 
 http://www.stf.jus.br/portal/processo/pesquisarProcesso.asp
 
-### Matérias
+### Fontes
 - http://congressoemfoco.uol.com.br/noticias/veja-os-senadores-que-sao-investigados-no-stf/
 - http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-fabio-faria-e-suspeito-de-receber-doacao-eleitoral-via-caixa-2.ghtml
 - http://g1.globo.com/politica/operacao-lava-jato/noticia/delator-diz-que-apoiava-zeca-dirceu-para-nao-ter-jose-dirceu-como-inimigo.ghtml
+- http://www.valor.com.br/politica/4938278/deputado-antonio-brito-teria-ganho-dinheiro-da-odebrecht-e-da-braskem
+- http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-arlindo-chinaglia-e-suspeito-de-cobrar-propina-para-liberar-obra.ghtml
+- http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-odebrecht-arthur-oliveira-maia-e-suspeito-de-receber-doacao-nao-contabilizada-para-campanha.ghtml
+- http://jconline.ne10.uol.com.br/canal/politica/pernambuco/noticia/2017/05/09/janot-pede-a-retirada-de-betinho-gomes-da-lista-de-fachin-282615.php
+- http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-beto-mansur-e-acusado-de-falsidade-documental-para-favorecer-construtora.ghtml
+- http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-carlos-zarattini-e-suspeito-de-receber-pagamentos-indevidos.ghtml
+- http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-celso-russomano-e-suspeito-de-receber-caixa-2-na-eleicao-de-2010.ghtml
 
 #### Vamos monitorar!!!
 
