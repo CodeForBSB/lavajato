@@ -431,11 +431,17 @@
       "nome": "MARIA DO ROSÁRIO",
       "partido": "PT/RS",
       "cargo": "Deputado Federal",
-      "acusacao": "",
+      "acusacao": "Suspeita de ter recebido R$ 150.000 da Odebrecht via caixa 2 durante a corrida eleitoral de 2010.",
       "apelido": "Solução",
       "cpf": "489893710-15",
       "idCadastro": "74398",
-      "foto": "http://www.camara.leg.br/internet/deputado/bandep/74398.jpg"
+      "foto": "http://www.camara.leg.br/internet/deputado/bandep/74398.jpg",
+      "processos": [
+         {
+            "numero": "Inq 4398",
+            "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5149741"
+         }
+      ]  
    },
    {
       "nome": "NELSON PELLEGRINO",
