@@ -58,6 +58,7 @@ http://www.stf.jus.br/portal/processo/pesquisarProcesso.asp
 - http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-beto-mansur-e-acusado-de-falsidade-documental-para-favorecer-construtora.ghtml
 - http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-carlos-zarattini-e-suspeito-de-receber-pagamentos-indevidos.ghtml
 - http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-celso-russomano-e-suspeito-de-receber-caixa-2-na-eleicao-de-2010.ghtml
+- http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-maria-do-rosario-e-suspeita-de-receber-dinheiro-de-caixa-2.ghtml
 
 #### Vamos monitorar!!!
 
